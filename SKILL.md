@@ -4,7 +4,8 @@ description: Analyze a system's objectives to identify misspecification risks, u
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4589
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - objective-misspecification-audit
 - transformation
